@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.eb5dcd05.css",
+    "main.js": "/robofriends/static/js/main.f4830ba7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/robofriends/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Candy Shop.woff": "/robofriends/static/media/Candy Shop.b1b53aab2fced8dd3dd7.woff",
+    "index.html": "/robofriends/index.html",
+    "main.eb5dcd05.css.map": "/robofriends/static/css/main.eb5dcd05.css.map",
+    "main.f4830ba7.js.map": "/robofriends/static/js/main.f4830ba7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/robofriends/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb5dcd05.css",
+    "static/js/main.f4830ba7.js"
+  ]
+}
